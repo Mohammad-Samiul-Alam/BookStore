@@ -2,6 +2,11 @@
 <p>"php": "^8.2"</p>
 <p>Laragon: 6.0.0</p>
 
+<h2>Documentation:</h2>
+<p>1. First, download this zip file and then extract the zip file.</p>
+<p>2. After that, open the extract folder in a code editor or a terminal, then <u>make this command: "php artisan migrate"</u></p>
+<p>3. The last command is "php artisan serve" to open the project in a browser.</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
