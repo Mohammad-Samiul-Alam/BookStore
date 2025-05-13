@@ -6,7 +6,7 @@ Important:
 5. Migrate file to database " php artisan migrate "
 6. npm install
 7. npm run build
-8. php artisan config:cache
+8. Run " php artisan config:cache "
 9. Run project: " php artisan serve "
    
 
