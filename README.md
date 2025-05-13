@@ -4,9 +4,10 @@ Important:
 3. Set up their own environment variables
 4. Run php artisan key:generate
 
-<p>"laravel/framework": "^12.0"</p>
-<p>"php": "^8.2"</p>
-<p>Laragon: 6.0.0</p>
+Notes:
+"laravel/framework": "^12.0"
+"php": "^8.2"
+Laragon: 6.0.0
 
 <h2>Documentation:</h2>
 <p>1. First, download this zip file and then extract the zip file.</p>
