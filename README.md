@@ -1,5 +1,5 @@
 Important: 
-1. Run " composer install "
+1. Run " composer install " (Then open the project in a code editor and then)
 2. Copy " .env.example to .env "
 3. Set up their own environment variables
 4. Run php artisan key:generate
