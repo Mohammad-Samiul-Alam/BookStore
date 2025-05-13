@@ -1,4 +1,4 @@
-Important: 
+Important(Full process, run and installation): 
 1. First, download and then extract the zip file.
 2. Run " composer install " (Then open the project in a code editor and then)
 3. Copy " .env.example to .env " (First create a " .env " file)
