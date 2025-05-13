@@ -1,8 +1,10 @@
 Important: 
-1. Run composer install
-2. Copy .env.example to .env
+1. Run " composer install "
+2. Copy " .env.example to .env "
 3. Set up their own environment variables
 4. Run php artisan key:generate
+5. Migrate file to database " php artisan migrate "
+6. Run project: " php artisan serve "
 
 Notes:
 "laravel/framework": "^12.0"
