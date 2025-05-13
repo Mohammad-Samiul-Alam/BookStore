@@ -4,7 +4,11 @@ Important:
 3. Set up their own environment variables
 4. Run php artisan key:generate
 5. Migrate file to database " php artisan migrate "
-6. Run project: " php artisan serve "
+6. npm install
+7. npm run build
+8. php artisan config:cache
+9. Run project: " php artisan serve "
+   
 
 Notes:
 "laravel/framework": "^12.0"
