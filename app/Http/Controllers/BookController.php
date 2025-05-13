@@ -70,8 +70,7 @@ class BookController extends Controller
         $request->validate([
             'title' => 'required|string|max:255',
             'author' => 'required|string|max:255',
-            'isbn' => 'required|string|size:13|unique:books,isbn',
-            // 'isbn' => 'required|string|min:5|max:13|unique:books,isbn',
+            'isbn' => 'required|string|min:5|max:13',
             'stock' => 'required|integer|min:0',
             'price' => 'nullable|numeric|min:0|max:999999.99',
         ]);
